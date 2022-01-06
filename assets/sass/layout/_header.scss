@@ -1,0 +1,25 @@
+.logo__image{
+    width: 5rem;
+}
+h1{
+    font-family: $playfair;
+    font-style: $playfair-italic;
+    font-weight:$playfair-md;
+    font-size:4rem;
+    color:$white;
+    position:absolute;
+    text-align:center;
+    top:40%;
+    padding-left:25%;
+    padding-right:25%;
+
+
+}
+
+.header{
+    background-image: url("../img/post-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:40rem;
+}
